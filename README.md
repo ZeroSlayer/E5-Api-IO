@@ -7,4 +7,4 @@
      * 查询系api：onedrive,outkook,notebook,site等
      * 创建系api: 自动发送邮件，上传文件，修改excel等
  
- * 教程地址:https://github.com/djhdj1/AutoApiP
+ * 教程地址:https://github.com/superdev8/AutoApi
